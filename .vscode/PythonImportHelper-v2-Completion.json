@@ -1,0 +1,731 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "apps",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "format_suffix_patterns",
+        "importPath": "rest_framework.urlpatterns",
+        "description": "rest_framework.urlpatterns",
+        "isExtraImport": true,
+        "detail": "rest_framework.urlpatterns",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.asgi",
+        "description": "crowdfunding.crowdfunding.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "crowdfunding.crowdfunding.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'projects.apps.ProjectsConfig',\n    'users.apps.UsersConfig',\n    'rest_framework',\n    'django.contrib.admin',",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'projects.apps.ProjectsConfig',\n    'users.apps.UsersConfig',\n    'rest_framework',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'projects.apps.ProjectsConfig',\n    'users.apps.UsersConfig',\n    'rest_framework',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'projects.apps.ProjectsConfig',\n    'users.apps.UsersConfig',\n    'rest_framework',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.CustomUser'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'crowdfunding.urls'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "ROOT_URLCONF = 'crowdfunding.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'crowdfunding.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.settings",
+        "description": "crowdfunding.crowdfunding.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "crowdfunding.crowdfunding.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.urls",
+        "description": "crowdfunding.crowdfunding.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('projects.urls')),\n    path('', include('users.urls')),\n    path('apt-auth/', include('rest_framework.urls')),\n    ]",
+        "detail": "crowdfunding.crowdfunding.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "crowdfunding.crowdfunding.wsgi",
+        "description": "crowdfunding.crowdfunding.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "crowdfunding.crowdfunding.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.migrations.0001_initial",
+        "description": "crowdfunding.projects.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Project',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=200)),",
+        "detail": "crowdfunding.projects.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.migrations.0002_alter_pledge_supporter_alter_project_owner",
+        "description": "crowdfunding.projects.migrations.0002_alter_pledge_supporter_alter_project_owner",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('projects', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='pledge',\n            name='supporter',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='pledges', to=settings.AUTH_USER_MODEL),",
+        "detail": "crowdfunding.projects.migrations.0002_alter_pledge_supporter_alter_project_owner",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectsConfig",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.apps",
+        "description": "crowdfunding.projects.apps",
+        "peekOfCode": "class ProjectsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'projects'",
+        "detail": "crowdfunding.projects.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Project",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.models",
+        "description": "crowdfunding.projects.models",
+        "peekOfCode": "class Project(models.Model):\n    title = models.CharField(max_length=200)\n    description = models.TextField()\n    goal = models.IntegerField()\n    image = models.URLField()\n    is_open = models.BooleanField()\n    date_created = models.DateTimeField()\n    #owner = models.CharField(max_length=200)\n    owner = models.ForeignKey (\n        get_user_model(),",
+        "detail": "crowdfunding.projects.models",
+        "documentation": {}
+    },
+    {
+        "label": "Pledge",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.models",
+        "description": "crowdfunding.projects.models",
+        "peekOfCode": "class Pledge(models.Model):\n    amount = models.IntegerField()\n    comment = models.CharField(max_length=200)\n    anonymous = models.BooleanField()\n    project = models.ForeignKey ('Project',\n                                on_delete=models.CASCADE,\n                                related_name='pledges')\n    #supporter = models.CharField(max_length=200)\n    supporter = models.ForeignKey(\n        get_user_model(),",
+        "detail": "crowdfunding.projects.models",
+        "documentation": {}
+    },
+    {
+        "label": "PledgeSerializer",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.serializers",
+        "description": "crowdfunding.projects.serializers",
+        "peekOfCode": "class PledgeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = apps.get_model('projects.Pledge')\n        fields = '__all__'\nclass ProjectSerializer(serializers.ModelSerializer):\n    owner = serializers.ReadOnlyField(source='owner.id')\n    class Meta:        \n        model = apps.get_model('projects.Project')        \n        fields ='__all__'\nclass ProjectDetailSerializer (PledgeSerializer):",
+        "detail": "crowdfunding.projects.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectSerializer",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.serializers",
+        "description": "crowdfunding.projects.serializers",
+        "peekOfCode": "class ProjectSerializer(serializers.ModelSerializer):\n    owner = serializers.ReadOnlyField(source='owner.id')\n    class Meta:        \n        model = apps.get_model('projects.Project')        \n        fields ='__all__'\nclass ProjectDetailSerializer (PledgeSerializer):\n    pledges = PledgeSerializer (many=True, read_only=True)\n# class ProjectSerializer(serializers.Serializer):\n#     id= serializers.ReadOnlyField()    \n#     title = serializers.CharField(max_length=200)    ",
+        "detail": "crowdfunding.projects.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectDetailSerialize",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.serializers",
+        "description": "crowdfunding.projects.serializers",
+        "peekOfCode": "class ProjectDetailSerializer (PledgeSerializer):\n    pledges = PledgeSerializer (many=True, read_only=True)\n# class ProjectSerializer(serializers.Serializer):\n#     id= serializers.ReadOnlyField()    \n#     title = serializers.CharField(max_length=200)    \n#     description = serializers.CharField(max_length=None)    \n#     goal = serializers.IntegerField()    \n#     image = serializers.URLField()    \n#     is_open = serializers.BooleanField()    \n#     date_created = serializers.DateTimeField()    ",
+        "detail": "crowdfunding.projects.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crowdfunding.projects.urls",
+        "description": "crowdfunding.projects.urls",
+        "peekOfCode": "urlpatterns = [    path('projects/', views.ProjectList.as_view()),\n                path('projects/<int:pk>/', views.ProjectDetail.as_view()),\n                path('pledges/', views.PledgeList.as_view())]\nurlpatterns = format_suffix_patterns(urlpatterns)",
+        "detail": "crowdfunding.projects.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crowdfunding.projects.urls",
+        "description": "crowdfunding.projects.urls",
+        "peekOfCode": "urlpatterns = format_suffix_patterns(urlpatterns)",
+        "detail": "crowdfunding.projects.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectList",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.views",
+        "description": "crowdfunding.projects.views",
+        "peekOfCode": "class ProjectList(APIView):\n    def get(self, request):\n        projects = Project.objects.all()\n        serializer = ProjectSerializer(projects, many=True)\n        return Response(serializer.data)\n    def post(self, request):\n        serializer = ProjectSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save(owner=request.user)\n            #serializer.save()    ",
+        "detail": "crowdfunding.projects.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProjectDetail",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.views",
+        "description": "crowdfunding.projects.views",
+        "peekOfCode": "class ProjectDetail(APIView):\n    def get_object(self, pk):\n        try:\n            return Project.objects.get(pk=pk)\n        except Project.DoesNotExist:       \n            raise Http404\n    #return Project.objects.get(pk=pk)\n    def get(self, request, pk):\n        project = self.get_object(pk)\n        serializer = ProjectDetailSerializer(project)",
+        "detail": "crowdfunding.projects.views",
+        "documentation": {}
+    },
+    {
+        "label": "PledgeList",
+        "kind": 6,
+        "importPath": "crowdfunding.projects.views",
+        "description": "crowdfunding.projects.views",
+        "peekOfCode": "class PledgeList(APIView):\n    def get(self,request):\n        pledges = Pledge.objects.all()\n        serializer = PledgeSerializer(pledges, many=True)\n        return Response (serializer.data)\n    def post(self, request):\n        serailizer = PledgeSerializer(data=request.data)\n        if serailizer.is_valid():\n            serailizer.save()\n            return Response (",
+        "detail": "crowdfunding.projects.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "crowdfunding.users.migrations.0001_initial",
+        "description": "crowdfunding.users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CustomUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "crowdfunding.users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "crowdfunding.users.apps",
+        "description": "crowdfunding.users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'users'",
+        "detail": "crowdfunding.users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUser",
+        "kind": 6,
+        "importPath": "crowdfunding.users.models",
+        "description": "crowdfunding.users.models",
+        "peekOfCode": "class CustomUser(AbstractUser):\n    pass\n    def __str__(self):\n        return self.username",
+        "detail": "crowdfunding.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserSerializer",
+        "kind": 6,
+        "importPath": "crowdfunding.users.serializer",
+        "description": "crowdfunding.users.serializer",
+        "peekOfCode": "class CustomUserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = CustomUser\n        fields = '__all__'\n        extra_kwargs = {'password': {'write_only': True}}\n    def create(self, validated_data):\n        return CustomUser.objects.create_user(**validated_data)",
+        "detail": "crowdfunding.users.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "crowdfunding.users.urls",
+        "description": "crowdfunding.users.urls",
+        "peekOfCode": "urlpatterns = [    \n        path('users/', views.CustomUserList.as_view()),\n        path('users/<int:pk>/', views.CustomUserDetail.as_view()),\n        ]",
+        "detail": "crowdfunding.users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserList",
+        "kind": 6,
+        "importPath": "crowdfunding.users.views",
+        "description": "crowdfunding.users.views",
+        "peekOfCode": "class CustomUserList(APIView):\n    def get(self, request):\n        users = CustomUser.objects.all()\n        serializer = CustomUserSerializer(users, many=True)\n        return Response(serializer.data)\n    def post(self, request):\n        serializer = CustomUserSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)",
+        "detail": "crowdfunding.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserDetail",
+        "kind": 6,
+        "importPath": "crowdfunding.users.views",
+        "description": "crowdfunding.users.views",
+        "peekOfCode": "class CustomUserDetail(APIView):  \n    def get_object(self, pk):   \n        try:    \n            return CustomUser.objects.get(pk=pk)\n        except CustomUser.DoesNotExist:\n            raise Http404 \ndef get(self, request, pk):\n    user = self.get_object(pk)\n    serializer = CustomUserSerializer(user)\n    return Response(serializer.data)",
+        "detail": "crowdfunding.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "get",
+        "kind": 2,
+        "importPath": "crowdfunding.users.views",
+        "description": "crowdfunding.users.views",
+        "peekOfCode": "def get(self, request, pk):\n    user = self.get_object(pk)\n    serializer = CustomUserSerializer(user)\n    return Response(serializer.data)",
+        "detail": "crowdfunding.users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "crowdfunding.manage",
+        "description": "crowdfunding.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'crowdfunding.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "crowdfunding.manage",
+        "documentation": {}
+    }
+]
