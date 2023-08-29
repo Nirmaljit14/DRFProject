@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 import os
+from crowdfunding.settings import SECRET_KEY
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -23,11 +24,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 #SECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'
 
-SECRET_KEY = os.environ.get ('DJANGO_SECRET_KEY',
-                            '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')
+# SECRET_KEY = os.environ.get ('DJANGO_SECRET_KEY',
+# #           '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')
+
+#SECURITY WARNING: don't run with debug turned on in production!
+#DEBUG = True
 DEBUG = os.environ.get (
     'DJANGO_DEBUG',
     'False'
