@@ -25,14 +25,6 @@
         "documentation": {}
     },
     {
-        "label": "SECRET_KEY",
-        "importPath": "crowdfunding.settings",
-        "description": "crowdfunding.settings",
-        "isExtraImport": true,
-        "detail": "crowdfunding.settings",
-        "documentation": {}
-    },
-    {
         "label": "admin",
         "importPath": "django.contrib",
         "description": "django.contrib",
@@ -387,7 +379,7 @@
         "kind": 5,
         "importPath": "crowdfunding.crowdfunding.settings",
         "description": "crowdfunding.crowdfunding.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n#SECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'\n# SECRET_KEY = os.environ.get ('DJANGO_SECRET_KEY',\n# #           '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\nSECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\n#SECURITY WARNING: don't run with debug turned on in production!\n#DEBUG = True",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n#SECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'\nSECRET_KEY = os.environ.get (\n    'DJANGO_SECRET_KEY',\n    '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\nDEBUG = os.environ.get (\n    'DJANGO_DEBUG',",
         "detail": "crowdfunding.crowdfunding.settings",
         "documentation": {}
     },
@@ -396,7 +388,7 @@
         "kind": 5,
         "importPath": "crowdfunding.crowdfunding.settings",
         "description": "crowdfunding.crowdfunding.settings",
-        "peekOfCode": "#SECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'\n# SECRET_KEY = os.environ.get ('DJANGO_SECRET_KEY',\n# #           '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\nSECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\n#SECURITY WARNING: don't run with debug turned on in production!\n#DEBUG = True\nDEBUG = os.environ.get (\n    'DJANGO_DEBUG',\n    'False'\n    != 'False'",
+        "peekOfCode": "#SECRET_KEY = 'django-insecure-1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8'\nSECRET_KEY = os.environ.get (\n    'DJANGO_SECRET_KEY',\n    '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\nDEBUG = os.environ.get (\n    'DJANGO_DEBUG',\n    'False'\n    != 'False'\n)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')",
         "detail": "crowdfunding.crowdfunding.settings",
         "documentation": {}
     },
@@ -405,16 +397,7 @@
         "kind": 5,
         "importPath": "crowdfunding.crowdfunding.settings",
         "description": "crowdfunding.crowdfunding.settings",
-        "peekOfCode": "SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\n#SECURITY WARNING: don't run with debug turned on in production!\n#DEBUG = True\nDEBUG = os.environ.get (\n    'DJANGO_DEBUG',\n    'False'\n    != 'False'\n)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nALLOWED_HOSTS = ['*']",
-        "detail": "crowdfunding.crowdfunding.settings",
-        "documentation": {}
-    },
-    {
-        "label": "#DEBUG",
-        "kind": 5,
-        "importPath": "crowdfunding.crowdfunding.settings",
-        "description": "crowdfunding.crowdfunding.settings",
-        "peekOfCode": "#DEBUG = True\nDEBUG = os.environ.get (\n    'DJANGO_DEBUG',\n    'False'\n    != 'False'\n)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nALLOWED_HOSTS = ['*']\nCORS_ALLOW_ALL_ORIGINS = True\nCSRF_TRUSTED_ORIGINS = ['https://*.fly.dev']",
+        "peekOfCode": "SECRET_KEY = os.environ.get (\n    'DJANGO_SECRET_KEY',\n    '1m_vs49m#f&#c$n2*02t#97s^(*27v&ny#g1km4*83wvc3p+_8')\nDEBUG = os.environ.get (\n    'DJANGO_DEBUG',\n    'False'\n    != 'False'\n)\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nALLOWED_HOSTS = ['*']",
         "detail": "crowdfunding.crowdfunding.settings",
         "documentation": {}
     },

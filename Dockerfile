@@ -15,7 +15,6 @@ RUN set -ex && \
     pip install -r /tmp/requirements.txt && \
     rm -rf /root/.cache/
 
-#COPY . /code
 COPY crowdfunding/ /code/
 
 ENV SECRET_KEY "FXjqyJCfAxo9h5P7Jyu41cxRH9Cykt00DkCSXm5vbJYtgJyF2P"
